@@ -1,5 +1,3 @@
-import index2
-
 def uncovered_if(var=True):
     if var:
       return False
